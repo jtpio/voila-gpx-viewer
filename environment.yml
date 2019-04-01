@@ -1,0 +1,11 @@
+name: voila-gpx
+channels:
+  - conda-forge
+dependencies:
+  - ipyleaflet
+  - jupyterlab=0.35
+  - ipywidgets=7.4
+  - gpxpy
+  - pip:
+    - srtm.py
+    - "git+https://github.com/QuantStack/voila"
