@@ -7,5 +7,7 @@ dependencies:
   - ipywidgets=7.4
   - gpxpy
   - pip:
+    - ipyupload
     - srtm.py
-    - "git+https://github.com/QuantStack/voila"
+    - "git+https://github.com/jtpio/voila@data-base-url"
+
