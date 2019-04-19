@@ -1,2 +1,5 @@
 # voila-gpx
-GPX Viewer built with Jupyter Notebook and Voila
+
+GPX Viewer built with Jupyter, ipywidgets and Voila
+
+![screencast](./screencast.gif)
