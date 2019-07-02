@@ -4,7 +4,7 @@
 
 Experimental GPX Viewer web app built with Jupyter, ipywidgets and Voila
 
-![screencast](./screencast.gif)
+![screencast](https://user-images.githubusercontent.com/591645/60527710-0ff1c680-9cf3-11e9-87b5-8711fd3da344.gif)
 
 ## Usage
 
