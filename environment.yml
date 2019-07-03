@@ -5,12 +5,11 @@ dependencies:
   - bqplot=0.11.5
   - ipyleaflet=0.11.0
   - ipywidgets=7.5.0
-  - jupyterlab=1
+  - jupyterlab=1.0
   - gpxpy=1.3.5
   - pandas=0.24
   - pip
-  - nodejs
+  - voila=0.1.4
   - pip:
     - srtm.py==0.3.4
-    - "git+https://github.com/jtpio/voila.git@5830a748f17fbb50bd7895d9f5c7678e4bbbd366"
 
