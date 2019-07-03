@@ -1,10 +1,10 @@
-# voila-gpx
+# voila-gpx-viewer
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtpio/voila-gpx/master?urlpath=voila%2Frender%2Fapp)
 
-Experimental GPX Viewer web app built with Jupyter, ipywidgets and Voila
+Experimental GPX Viewer web app built with Jupyter, ipywidgets, ipyleaflet, bqplot and voila
 
-![screencast](./screencast.gif)
+![screencast](https://user-images.githubusercontent.com/591645/60527710-0ff1c680-9cf3-11e9-87b5-8711fd3da344.gif)
 
 ## Usage
 
