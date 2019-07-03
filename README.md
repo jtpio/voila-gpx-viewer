@@ -1,6 +1,6 @@
 # voila-gpx-viewer
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtpio/voila-gpx/master?urlpath=voila%2Frender%2Fapp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtpio/voila-gpx-viewer/master?urlpath=voila%2Frender%2Fapp.ipynb)
 
 Experimental GPX Viewer web app built with Jupyter, ipywidgets, ipyleaflet, bqplot and voila
 
