@@ -6,6 +6,7 @@ dependencies:
 - ipyleaflet=0.13
 - ipywidgets=7.5
 - jupyterlab=2
+- nodejs
 - gpxpy=1.4
 - srtm.py=0.3.4
 - voila=0.1.21
