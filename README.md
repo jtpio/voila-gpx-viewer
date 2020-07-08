@@ -8,12 +8,15 @@ Experimental GPX Viewer web app built with Jupyter, ipywidgets, ipyleaflet, bqpl
 
 ## Usage
 
+Create the environment with the dependencies:
+
 ```bash
-voila app.ipynb
+conda env create
+conda activate voila-gpx-viewer
 ```
 
-To automatically cull idle kernels:
+Open the app:
 
 ```bash
-voila --MappingKernelManager.cull_interval=10 --MappingKernelManager.cull_idle_timeout=10 app.ipynb
+voila app.ipynb
 ```
