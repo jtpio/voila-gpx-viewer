@@ -1,0 +1,6 @@
+{
+  "MappingKernelManager": {
+    "cull_interval": 60,
+    "cull_idle_timeout": 60
+  }
+}
