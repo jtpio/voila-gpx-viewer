@@ -1,14 +1,11 @@
 name: voila-gpx-viewer
 channels:
-  - conda-forge
+- conda-forge
 dependencies:
-  - bqplot=0.12
-  - ipyleaflet=0.11
-  - ipywidgets=7.5
-  - jupyterlab=1.2
-  - gpxpy=1.3.5
-  - pip
-  - voila=0.1.20
-  - pip:
-    - srtm.py==0.3.4
-
+- bqplot=0.12
+- ipyleaflet=0.13
+- ipywidgets=7.5
+- jupyterlab=2
+- gpxpy=1.4
+- srtm.py=0.3.4
+- voila=0.1.21
