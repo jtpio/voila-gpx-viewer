@@ -4,9 +4,9 @@ channels:
 dependencies:
 - bqplot=0.12
 - ipyleaflet=0.13
-- ipywidgets=7.5
-- jupyterlab=2
+- ipywidgets=7.6
+- jupyterlab=3
 - nodejs
 - gpxpy=1.4
 - srtm.py=0.3.4
-- voila=0.1.21
+- voila=0.2
