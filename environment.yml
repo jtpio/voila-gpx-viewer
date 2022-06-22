@@ -8,5 +8,6 @@ dependencies:
 - jupyterlab=3.4
 - nodejs=16
 - gpxpy=1.5
+- python=3.10
 - srtm.py=0.3
 - voila=0.3
