@@ -3,10 +3,10 @@ channels:
 - conda-forge
 dependencies:
 - bqplot=0.12
-- ipyleaflet=0.13
-- ipywidgets=7.6
-- jupyterlab=3
-- nodejs
-- gpxpy=1.4
-- srtm.py=0.3.4
-- voila=0.2
+- ipyleaflet=0.16
+- ipywidgets=7.7
+- jupyterlab=3.4
+- nodejs=16
+- gpxpy=1.5
+- srtm.py=0.3
+- voila=0.3
