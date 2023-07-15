@@ -20,7 +20,7 @@ activate the created environment
 conda activate voila-gpx-viewer
 ```
 
-run the bash.sh file 
+install the right version for each package by running inst.sh
 
 ```
 bash inst.sh
@@ -29,5 +29,5 @@ bash inst.sh
 Open the app:
 
 ```
-bash voila app.ipynb
+voila app.ipynb
 ```
