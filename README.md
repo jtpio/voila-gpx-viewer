@@ -8,7 +8,9 @@ Experimental GPX Viewer web app built with Jupyter, ipywidgets, ipyleaflet, bqpl
 
 ## Usage
 
-generate a proper conda environment just by typing
+Do not use the environment.yml file, but go ahead with the following steps:
+
+Generate a proper conda environment just by typing
 
 ```
 conda create --name voila-gpx-viewer python=3.10
