@@ -8,22 +8,26 @@ Experimental GPX Viewer web app built with Jupyter, ipywidgets, ipyleaflet, bqpl
 
 ## Usage
 
-In order to generate the proper conda environment, type the following two lines
+generate a proper conda environment just by typing
 
 ```
 conda create --name voila-gpx-viewer python=3.10
 ```
 
+activate the created environment
+
 ```
 conda activate voila-gpx-viewer
 ```
 
-than run this file just by typing 
+run the bash.sh file 
 
+```
 bash inst.sh
+```
 
 Open the app:
 
-```bash
-voila app.ipynb
+```
+bash voila app.ipynb
 ```
